@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.naukari.corehr.ListenerTest"/>
+  </listeners>
+  <test name="Bath.xml(failed)">
+    <classes>
+      <class name="com.naukari.corehr.CreateNaukariAccount">
+        <methods>
+          <include name="ModifyAccount"/>
+          <include name="CreateAccount"/>
+        </methods>
+      </class> <!-- com.naukari.corehr.CreateNaukariAccount -->
+    </classes>
+  </test> <!-- Bath.xml(failed) -->
+</suite> <!-- Failed suite [Suite] -->

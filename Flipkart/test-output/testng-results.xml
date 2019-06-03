@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2019-05-08T15:22:29Z" finished-at="2019-05-08T15:22:29Z">
+    <groups>
+    </groups>
+    <test name="Bath.xml" duration-ms="63" started-at="2019-05-08T15:22:29Z" finished-at="2019-05-08T15:22:29Z">
+      <class name="com.naukari.corehr.CreateNaukariAccount">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.naukari.corehr.CreateNaukariAccount@71c7db30]" name="f" duration-ms="27" started-at="2019-05-08T20:52:29Z" finished-at="2019-05-08T20:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.naukari.corehr.CreateNaukariAccount -->
+    </test> <!-- Bath.xml -->
+  </suite> <!-- Suite -->
+</testng-results>
